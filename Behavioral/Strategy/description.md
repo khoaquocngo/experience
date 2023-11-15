@@ -1,0 +1,3 @@
+- Stratagy pattern còn có bí danh là Policy
+- Nhiều chiến lượt --> mục đích
+- --> Tách biệt phần thuật toán của chiến lượt khỏi phần sử dụng thuật toán
